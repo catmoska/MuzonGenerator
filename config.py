@@ -1,6 +1,6 @@
 import random
 import numpy as np
-############################
+
 
 # количество чтрок генирируимих gpt
 sravneniaStrok = 10

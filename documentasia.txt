@@ -1,5 +1,13 @@
-import
+anaconda3
 
+
+pip
     wave - синтез речи
     struct - синтез речи
     numpy - !
+
+exe
+    https://pytorch.org/
+
+
+

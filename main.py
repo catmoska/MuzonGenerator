@@ -10,11 +10,11 @@ from datetime import datetime
 start_time = datetime.now()
 
 gp = generatorPesni("tdfgsdn asdfasf sdfgsdh", 0)
-#               fffffffffffffffffffffff
+
 sintegGpt(gp, gen(gp), T=True)
 
 # gen(generatorPesni("tdfgsdn asdfasf sdfgsdh", 0))
-#sintez("d")0
+# sintez("d")0
 # print("впы апбыв. пкв, ып оел  б")
 # print(razdelSlogov(""))
 # print(mathString(12345))
